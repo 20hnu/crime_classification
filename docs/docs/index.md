@@ -2,7 +2,8 @@
 
 ## Description
 
-A short description of the project.
+This is the kaggle dataset.
+
 
 ## Commands
 
